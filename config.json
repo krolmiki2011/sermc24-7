@@ -1,0 +1,9 @@
+{
+	"ip":"Mikusiowicen.aternos.me",
+	"port": 56258,
+	"name": "BOT_7H8K",
+	"auto-night-skip":"false",
+	"login-enabled":"false",
+	"register-cmd":"/register (type_ur_pass_here(remember_no_spaces)) (type_ur_pass_here(remember_no_spaces))",
+	"login-cmd":"/login (type_ur_pass_here)"
+}
